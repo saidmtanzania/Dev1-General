@@ -1,0 +1,6 @@
+[submodule "src/modules/Provider-Search"]
+	path = src/modules/Provider-Search
+	url = https://github.com/saidmtanzania/Provider-Search.git
+[submodule "src/modules/About-Us"]
+	path = src/modules/About-Us
+	url = https://github.com/saidmtanzania/About-Us.git
