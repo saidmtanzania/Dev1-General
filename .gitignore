@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+.vscode/launch.json
+.vscode/settings.json
+.vs
+node_modules/
+dist/
+.env
