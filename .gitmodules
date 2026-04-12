@@ -4,3 +4,6 @@
 [submodule "src/modules/About-Us"]
 	path = src/modules/About-Us
 	url = https://github.com/saidmtanzania/About-Us.git
+[submodule "submod-backend"]
+	path = submod-backend
+	url = https://github.com/saidmtanzania/submod-backend.git
